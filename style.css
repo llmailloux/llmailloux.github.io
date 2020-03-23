@@ -12,7 +12,8 @@ h1{
 }
 
 h2{
-   color: ghostwhite;
+   color: black;
+    font-size: 3em;
 }
 
  /* Style*/
@@ -24,8 +25,16 @@ h2{
   text-decoration: none;
 }
 
+img{
+    border-radius: 50%;
+   
+}
 
-.fa:hover {
+.bannerImg{
+    color: black;
+    background-color: #EFEEEE;
+}
+.fa hover {
   opacity: 0.7;
 }
 
@@ -40,6 +49,12 @@ h2{
   background: #55ACEE;
   color: white;
 } 
+
+.col-4 {
+margin-bottom: 25px;
+    margin-top: 25px;
+    
+}
  /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; 
