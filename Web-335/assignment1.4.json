@@ -1,0 +1,22 @@
+{
+    //name
+    "firstName": "Jazmyn",
+    "lastName": "Jayde",
+    //birthdate
+    "birthdate": "5-25-72",
+    "roles":[
+        "administrator",
+        "secretary",
+    ],
+    //dependents
+    "dependents": [
+        {
+            "name": "Joshua",
+            "age": "7",
+        },
+        {
+            "name": "Jace",
+            "age": "10",
+        }
+    ]
+}
